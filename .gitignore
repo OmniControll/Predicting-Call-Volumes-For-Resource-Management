@@ -1,0 +1,14 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore Word documents
+*.docx
+
+# Ignore temporary notebook files
+*.ipynb_checkpoints/
+
+# ignore html
+*.html
